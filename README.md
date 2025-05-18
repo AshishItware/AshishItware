@@ -1,5 +1,9 @@
 # 💫 About Me:
-I have skills in Dot Net Development and want to express my keen interest in the role. With a B.Tech background and experience in .NET development, I believe my skills align well with the requirements of the position.<br><br>I would love the opportunity to discuss how my expertise could contribute to your team. 
+I’m a Full Stack .NET Developer with a B.E. in Electronics and Power and hands-on experience building scalable web applications. At Zest India Pvt. Ltd., I focus primarily on backend development using ASP.NET Core and Entity Framework Core, while also contributing to frontend components with Angular.
+
+My work includes designing secure RESTful APIs, implementing full CRUD operations, and integrating frontend and backend systems using Angular’s HttpClient and RxJS. I played a key role in developing a Pharmacy Management System that improved performance, reduced bugs, and enhanced usability across devices.
+
+While I enjoy full-stack development, my true passion lies in backend engineering and clean architecture. I thrive on writing modular, maintainable code and building systems that are robust, secure, and easy to scale.
 
 
 ## 🌐 Socials:
